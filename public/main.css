@@ -87,4 +87,6 @@ div#videos > video {
     height: 100%;
     display: block;
     margin: 1em;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
